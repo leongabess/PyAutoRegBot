@@ -4,16 +4,21 @@ Fiz esse primeiro programa devido à necessidade no meu trabalho atual: registra
 
 O programa é 100% funcional, porém não o utilizo mais devido às limitações que ele possui. A lógica por trás dele, de maneira mais sofisticada, foi implementada no programa feito com Selenium, que pode ser encontrado no seguinte repositório:
 
+
 🛠️ Tecnologias
+
 
 Python 3.10.5
 
 PyAutoGui
 
+
 📦 Requisitos para rodar
+
 Basta utilizar o comando abaixo no CMD (caso esteja no Windows):
 
 py -m pip install pyautogui
+
 
 Para mais detalhes sobre a instalação no Windows e em outros sistemas, assim como a documentação completa de uso, acesse:
 🔗 https://pyautogui.readthedocs.io/en/latest/install.html
